@@ -37,8 +37,6 @@
 		html += '</div>';
 		html += '<script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>';
 
-		$('.preview').removeClass('hide');
-		$('.preview .demo').empty().html(html);
 		$('.output-code').val(html);
 	}
 
