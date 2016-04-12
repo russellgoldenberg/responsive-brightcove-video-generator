@@ -16,7 +16,7 @@
 	function generateCode(id) {
 		var html = '';
 
-		var css = '.outer-video-container {width: 100%;max-width: 960px;margin: 2em auto;}.inner-video-container {position: relative;height: 0;overflow: hidden;padding-bottom: 56.25%;}.inner-video-container .BrightcoveExperience {position: absolute;top: 0;left: 0;width: 100%;height: 100%;}';
+		var css = '.outer-video-container {width: 100%;max-width: 800px;margin: 2em auto;}.inner-video-container {position: relative;height: 0;overflow: hidden;padding-bottom: 56.25%;}.inner-video-container .BrightcoveExperience {position: absolute;top: 0;left: 0;width: 100%;height: 100%;}';
 
 		html += '<style>' + css + '</style>';
 
