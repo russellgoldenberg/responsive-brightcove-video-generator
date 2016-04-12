@@ -35,7 +35,7 @@
 		html += '</object>';
 		html += '</div>';
 		html += '</div>';
-		html += '<script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>';
+		html += '<script language="JavaScript" type="text/javascript" src="//admin.brightcove.com/js/BrightcoveExperiences.js"></script>';
 
 		$('.output-code').val(html);
 	}
